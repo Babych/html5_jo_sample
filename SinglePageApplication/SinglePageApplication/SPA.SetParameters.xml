@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="SPA/SinglePageApplication" />
+  <setParameter name="SinglePageDatabaseConnectionString-Web.config Connection String" value="Data Source=|DataDirectory|\SinglePageDatabase.sdf" />
+  <setParameter name="InfoConnectionString-Web.config Connection String" value="Data Source=|DataDirectory|\Info.sdf" />
+</parameters>

@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<SinglePageDataSet xmlns="http://tempuri.org/SinglePageDataSet.xsd">
+  <InfoTable>
+    <id>1</id>
+    <Name>xData1</Name>
+    <Info>des</Info>
+    <Date>0001-01-01T00:00:00+02:00</Date>
+  </InfoTable>
+  <InfoTable>
+    <id>2</id>
+    <Name>bData2</Name>
+    <Info>des</Info>
+    <Date>2013-06-25T11:49:13.3311105+03:00</Date>
+  </InfoTable>
+  <InfoTable>
+    <id>4</id>
+    <Name>cData4</Name>
+    <Info>des</Info>
+    <Date>2013-06-25T11:49:18.8344252+03:00</Date>
+  </InfoTable>
+  <InfoTable>
+    <id>5</id>
+    <Name>fData5</Name>
+    <Info>des</Info>
+    <Date>0001-01-01T00:00:00+02:00</Date>
+  </InfoTable>
+  <InfoTable>
+    <id>6</id>
+    <Name>gData6</Name>
+    <Info>des</Info>
+    <Date>0001-01-01T00:00:00+02:00</Date>
+  </InfoTable>
+</SinglePageDataSet>
